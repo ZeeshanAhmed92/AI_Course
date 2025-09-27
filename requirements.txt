@@ -1,0 +1,6 @@
+pandas
+ipykernel
+openpyxl
+python-dotenv
+sqlalchemy
+pymysql

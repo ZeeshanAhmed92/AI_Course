@@ -1,0 +1,13 @@
+Explore these topics:
+
+1. Pandas
+2. numpy
+
+types of data 
+1. list
+2. set
+3. dictionary
+4. tuple
+
+numpy numerical python
+we cant perform numerical operations on list.

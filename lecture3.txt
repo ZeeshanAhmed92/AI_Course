@@ -1,0 +1,6 @@
+Discussion Points
+What is SQL ?
+What is relational database ?
+Primary Key(Unique identifier column for a table)
+Foreign Key
+xampp and docker
