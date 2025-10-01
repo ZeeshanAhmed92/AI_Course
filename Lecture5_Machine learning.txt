@@ -1,0 +1,64 @@
+What is machine learning ?
+Types of machine learning ?
+- Supervised ML
+- Unsupervised ML
+- Semi Supervised ML
+Pre-processing steps for data in machine learning ?
+Machine learning algorithms for different types ?
+
+
+age  weight  gender   religion        name
+12     45     M          islam      zeeshan
+15     20     F     Non-islamic      Bijen       
+30     35     S
+
+
+Label encoding to convert categorical data to numerical
+
+
+age  weight  gender  r														R2=0.2
+12     45     0
+15     20     1
+30     35     2
+
+
+*independent variable=predictors=input
+*dependent variable=output=prediction
+
+Regression always used for numerical data
+Classification always used for categorical data.
+
+Garbage in = garbage out,   model selection/evaluation/hyperparameter tuning.
+
+
+Steps for ML model training and deploying
+1. Knowing the problem statement.
+2. Collect data(secondary data) or you create data(primary data).
+3. Data Preprocessing/Data wrangling/EDA.(Data scaling, Label encoding, removing outliers, dtypes of columns/fields etc)
+4. Choosing ML model.(whether we are predicting numerical value(regression models) or categorical(classification models))
+5. Splitting data into training(70-80%) and testing data(10-20%).
+6. Performed training.
+7. Evaluation of model(regression models have different evaluation metrics and classification models have different metrics).
+8. After checking performance we tuned the models.
+
+a=2
+b-4
+c=6
+
+
+
+age    scaling
+2	-0.5
+4	0
+6	0.5
+9	
+10
+100
+
+-1 to 1
+
+
+
+
+
+

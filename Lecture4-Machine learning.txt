@@ -1,0 +1,4 @@
+What is machine learning ?
+Types of machine learning ?
+Pre-processing steps for data in machine learning ?
+Machine learning algorithms for different types ?
